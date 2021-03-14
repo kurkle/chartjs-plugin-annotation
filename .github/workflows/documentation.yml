@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-        run: |
+      - run: |
           cd docs
           npm ci
           npm run build
