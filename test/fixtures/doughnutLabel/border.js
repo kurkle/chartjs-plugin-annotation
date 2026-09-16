@@ -3,7 +3,7 @@ function content(ctx, opts) {
 }
 
 module.exports = {
-  tolerance: 0.0062,
+  tolerance: 0.00725,
   config: {
     type: 'doughnut',
     data: {

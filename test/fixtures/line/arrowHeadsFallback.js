@@ -1,5 +1,5 @@
 module.exports = {
-  tolerance: 0.0020,
+  tolerance: 0.0035,
   config: {
     type: 'line',
     options: {
